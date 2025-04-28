@@ -1,4 +1,4 @@
-"""Implement 2d gradient descent using jax."""
+"""Implement 2d gradient descent."""
 
 import numpy as np
 import torch as th
